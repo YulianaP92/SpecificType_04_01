@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7278B986-6173-4020-A58B-78E0605C6C47}</ProjectGuid>
+    <ProjectGuid>{8C43993D-1507-40BB-A554-E9C1F6933A21}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BL_8_Struct_Enum_Tuple_Generic</RootNamespace>
-    <AssemblyName>BL-8-Struct-Enum-Tuple-Generic</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>PlayerProject</RootNamespace>
+    <AssemblyName>PlayerProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -43,15 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson.Ananymous.cs" />
-    <Compile Include="Lesson.Nullable.cs" />
-    <Compile Include="Lesson.Tuple.cs" />
-    <Compile Include="Lesson.Generics.cs" />
-    <Compile Include="Practice.cs" />
-    <Compile Include="Lesson.Enums.cs" />
-    <Compile Include="Lesson.Struct.cs" />
+    <Compile Include="Album.cs" />
+    <Compile Include="Artist.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Song.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

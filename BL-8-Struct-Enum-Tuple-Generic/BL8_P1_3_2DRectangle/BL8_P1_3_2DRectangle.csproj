@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7278B986-6173-4020-A58B-78E0605C6C47}</ProjectGuid>
+    <ProjectGuid>{15998DC0-657A-4C6A-8D2B-E7DD3F6CB71C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BL_8_Struct_Enum_Tuple_Generic</RootNamespace>
-    <AssemblyName>BL-8-Struct-Enum-Tuple-Generic</AssemblyName>
+    <RootNamespace>BL8_P1_3_2DRectangle</RootNamespace>
+    <AssemblyName>BL8_P1_3_2DRectangle</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,13 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson.Ananymous.cs" />
-    <Compile Include="Lesson.Nullable.cs" />
-    <Compile Include="Lesson.Tuple.cs" />
-    <Compile Include="Lesson.Generics.cs" />
-    <Compile Include="Practice.cs" />
-    <Compile Include="Lesson.Enums.cs" />
-    <Compile Include="Lesson.Struct.cs" />
+    <Compile Include="2DRectangle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
