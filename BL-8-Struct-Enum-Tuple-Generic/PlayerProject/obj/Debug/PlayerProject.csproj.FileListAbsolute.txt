@@ -1,0 +1,7 @@
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\bin\Debug\PlayerProject.exe.config
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\bin\Debug\PlayerProject.exe
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\bin\Debug\PlayerProject.pdb
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\obj\Debug\PlayerProject.csprojAssemblyReference.cache
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\obj\Debug\PlayerProject.csproj.CoreCompileInputs.cache
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\obj\Debug\PlayerProject.exe
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\PlayerProject\obj\Debug\PlayerProject.pdb

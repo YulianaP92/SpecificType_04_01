@@ -1,0 +1,7 @@
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\bin\Debug\BL8_P2_3_2DRectangleMassive.exe.config
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\bin\Debug\BL8_P2_3_2DRectangleMassive.exe
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\bin\Debug\BL8_P2_3_2DRectangleMassive.pdb
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\obj\Debug\BL8_P2_3_2DRectangleMassive.csprojAssemblyReference.cache
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\obj\Debug\BL8_P2_3_2DRectangleMassive.csproj.CoreCompileInputs.cache
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\obj\Debug\BL8_P2_3_2DRectangleMassive.exe
+D:\Projects\SpecificType_04_01\BL-8-Struct-Enum-Tuple-Generic\BL8_P2_3_2DRectangleMassive\obj\Debug\BL8_P2_3_2DRectangleMassive.pdb
